@@ -1,0 +1,6 @@
+@PracticaDotNet_API_HostAddress = http://localhost:5177
+
+GET {{PracticaDotNet_API_HostAddress}}/api/Productos
+Accept: application/json
+
+###
